@@ -39,8 +39,8 @@ You can find more similar apps of mine [here](https://databutton.com/v/lgzxq112)
 
 # Cohere API Initiation
 # cohere_api_key = db.secrets.get(name="COHERE_API_KEY")
-# cohere_api_key = os.environ.get("COHERE_API_KEY")
-cohere_api_key = ""
+cohere_api_key = os.environ.get("COHERE_API_KEY")
+# cohere_api_key = ""
 
 st.title("Multilingual Chat Bot 🤖")
 st.info(
