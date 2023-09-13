@@ -3,3 +3,9 @@ numpy
 pandas
 pydeck
 streamlit
+cohere 
+langchain 
+qdrant-client 
+tfds-nightly 
+python-dotenv
+pypdf
